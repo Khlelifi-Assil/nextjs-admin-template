@@ -5,21 +5,21 @@ const messages: MessageProps[] = [
     message: 'Hello, how are you? This should be a very long message so that we can test how it fit into the screen.',
     reply: false,
     date: new Date().toLocaleTimeString(),
-    sender: 'Ahmed Elywa',
+    sender: 'Khelifi Assil',
     avatar: 'https://i.gifer.com/no.gif',
   },
   {
     message: 'Hello, how are you? This should be a very long message so that we can test how it fit into the screen.',
     reply: true,
     date: new Date().toLocaleTimeString(),
-    sender: 'Ahmed Elywa',
+    sender: 'Khelifi Assil',
     avatar: 'https://i.gifer.com/no.gif',
   },
   {
     message: 'Hello, how are you?',
     reply: false,
     date: new Date().toLocaleTimeString(),
-    sender: 'Ahmed Elywa',
+    sender: 'Khelifi Assil',
     avatar: '',
   },
   {
@@ -33,7 +33,7 @@ const messages: MessageProps[] = [
         type: 'image/jpeg',
       },
     ],
-    sender: 'Ahmed Elywa',
+    sender: 'Khelifi Assil',
     avatar: '',
   },
   {
@@ -42,7 +42,7 @@ const messages: MessageProps[] = [
     date: new Date().toLocaleTimeString(),
     type: 'quote',
     quote: 'Hello, how are you? This should be a very long message so that we can test how it fit into the screen.',
-    sender: 'Ahmed Elywa',
+    sender: 'Khelifi Assil',
     avatar: '',
   },
   {
@@ -56,7 +56,7 @@ const messages: MessageProps[] = [
         icon: 'icon ion-ios-document',
       },
     ],
-    sender: 'Ahmed Elywa',
+    sender: 'Khelifi Assil',
     avatar: '',
   },
   {
@@ -66,7 +66,7 @@ const messages: MessageProps[] = [
     type: 'map',
     latitude: 30.789901,
     longitude: 30.999093,
-    sender: 'Ahmed Elywa',
+    sender: 'Khelifi Assil',
     avatar: '',
   },
 ];

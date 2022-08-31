@@ -14,7 +14,8 @@
     "next": "^11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "styled-components": "5.3.1"
+    "styled-components": "5.3.1",
+    "yarn": "^1.22.19"
   },
   "keywords": [
     "react",
@@ -32,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paljs/nextjs-admin-template"
+    "url": "https://github.com/khelifi-assil/nextjs-admin-template"
   },
   "bugs": {
-    "url": "https://github.com/paljs/nextjs-admin-template/issues"
+    "url": "https://github.com/khelifi-assil/nextjs-admin-template/issues"
   },
   "devDependencies": {
     "@types/node": "16.7.10",
